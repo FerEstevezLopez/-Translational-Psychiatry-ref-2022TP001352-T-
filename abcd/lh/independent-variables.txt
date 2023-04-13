@@ -1,0 +1,38 @@
+stack_number	stack_name
+1	(Intercept)
+2	cbcl_scr_syn_somatic_r
+3	interview_age
+4	sex_at_birthM
+5	race_ethnicityBlack
+6	race_ethnicityHispanic
+7	race_ethnicityAsian
+8	race_ethnicityOther
+9	site_id_lsite02
+10	site_id_lsite03
+11	site_id_lsite04
+12	site_id_lsite05
+13	site_id_lsite06
+14	site_id_lsite07
+15	site_id_lsite08
+16	site_id_lsite09
+17	site_id_lsite10
+18	site_id_lsite11
+19	site_id_lsite12
+20	site_id_lsite13
+21	site_id_lsite14
+22	site_id_lsite15
+23	site_id_lsite16
+24	site_id_lsite17
+25	site_id_lsite18
+26	site_id_lsite19
+27	site_id_lsite20
+28	site_id_lsite21
+29	site_id_lsite22
+30	high.educHS Diploma/GED
+31	high.educSome College
+32	high.educBachelor
+33	high.educPost Graduate Degree
+34	household.income[>=50K & <100K]
+35	household.income[>=100K]
+36	anthro_bmi_calc
+37	pea_wiscv_tss
